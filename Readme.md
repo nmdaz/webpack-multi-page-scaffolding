@@ -28,5 +28,16 @@ npm install
 require('../style/name.scss');
 ````
 
+## Build the project
+```bash
+npm run build
+````
+## Development Server
+- Run this command
+```bash
+npm run serve
+````
+- Open your brower
+- Type localhost:8080 at the address bar
 
 
