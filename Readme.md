@@ -1,7 +1,6 @@
 # Webpack Multi Page Scaffolding
-
-Create modern Front End Project without
+Easy setup for your NON Single Page Application front end projects.
 
 ## Includes 
-	Babel loader
-	Sass loader
+- Babel loader - So you can use modern Javascript syntax
+- Sass loader - Use Dart Sass
